@@ -1,5 +1,5 @@
 <?php
-
+  //แก้ไข secret ให้ตรงกับของตัวเองครับ
   $secret = "6LdtJQkUAAAAADq6JgnKUOBsPXBUJFE3-Pal8LA6";
   $ip = $_SERVER['REMOTE_ADDR'];
   $captcha = $_POST['g-recaptcha-response'];
